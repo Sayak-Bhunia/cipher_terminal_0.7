@@ -1,6 +1,6 @@
-# My Terminal Playground 👩‍💻
+# ZNOTRON 👩‍💻
 
-Welcome to my terminal playground! This web-based terminal lets you explore a world of commands and possibilities. To get started, follow these steps:
+Welcome to my terminal playground! This web-based terminal eases my day to day workflow with various needs.
 
 1. **Access the Terminal:**
    - Click on the terminal window below or navigate to [znotron.vercel.app](https://znotron.vercel.app/) 🌐.
@@ -22,7 +22,7 @@ Welcome to my terminal playground! This web-based terminal lets you explore a wo
      - HTML for structure 🏗️
      - CSS for style 🎨
      - JavaScript (JS) for functionality 🧩
-     - OpenWeatherAPI for live weather updates 🌦️
+     - OpenWeatherMap API for live weather updates 🌦️
      - Geolocation for latitude and longitude information 🌐.
 
 6. **Have Fun Exploring:**
